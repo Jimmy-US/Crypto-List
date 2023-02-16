@@ -1,0 +1,60 @@
+# Binance
+DOMAIN-SUFFIX,binance.com,Crypto
+DOMAIN-SUFFIX,binance.us,Crypto
+DOMAIN-SUFFIX,binance.org,Crypto
+DOMAIN-SUFFIX,binance.vision,Crypto
+DOMAIN-SUFFIX,binance.cc,Crypto
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetglobal.com
+# OKEx
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okexcn.com
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okcoin.cn
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okgroup.com
+DOMAIN-SUFFIX,okex.me
+DOMAIN-SUFFIX,okex.ooo
+DOMAIN-SUFFIX,okex.one
+DOMAIN-SUFFIX,okex.win
+DOMAIN-SUFFIX,okexmail.com
+DOMAIN-SUFFIX,okexs.top
+# Huobi
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.co
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobihk.com
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,hbg.com
+DOMAIN-SUFFIX,bit-dax.com
+# Gate.io
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gatecn.io
+DOMAIN-SUFFIX,gatecdn.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,gate.io-bridge.io
+DOMAIN-SUFFIX,gateio.life
+DOMAIN-SUFFIX,gateio.xyz
+DOMAIN-SUFFIX,gateio.asia
+DOMAIN-SUFFIX,gateio.pro
+# KuCoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-KEYWORD,kucoin
+IP-CIDR,111.235.99.192/26
+IP-CIDR,111.235.99.128/26
+IP-CIDR,111.235.99.64/26
+IP-CIDR,203.181.74.32/27
+IP-CIDR,203.181.74.64/26
+IP-CIDR,203.181.74.128/26
+IP-CIDR,203.181.74.192/26
+IP-CIDR,58.64.184.128/26
+IP-CIDR,58.64.184.192/26
+IP-CIDR,58.64.184.64/26
+#OKcoin
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okex.com
+#MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,mexc.pro
